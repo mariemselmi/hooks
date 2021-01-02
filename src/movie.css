@@ -1,0 +1,37 @@
+.App {
+  
+}
+.Search {
+  margin-top: 69px;
+  text-align: center;
+}
+.input {
+  width: 200px;
+  padding: 19px;
+
+}
+.Card-container {
+  background-color: white;
+  width: 210px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  overflow: hidden;
+  margin: 16px;
+  padding: 10px;
+  box-shadow: 0px 0px 20px -5px;
+  
+}
+.Image-container {
+  overflow: hidden;
+  height: 270px;
+  margin: 10px 10px 0 10px;
+}
+.Movie-description, .Movie-name {
+  margin: 0px 10px 0px 10px;
+  font-size: 1.08vw;
+}
+.Reviews {
+  margin-left: 140px;
+  font-size: 19px;
+}
+
