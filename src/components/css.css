@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    font-size: 0.8cm;
+    background: rgb(73, 79, 82);
+    color: white;
+
+}
+.home {
+    text-decoration: none;
+    color: white;
+}
+.home:hover {
+    color: white;
+  }

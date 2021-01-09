@@ -6,7 +6,7 @@ export default class CardsList extends React.Component {
            
                <div className="row text-center flex-d justify-content-center" >
               {
-               this.props.objCrard.map((val)=> {
+               this.props.objCard.map((val)=> {
                 return(
                 <MovieCard ItemCard={val} />
             )
